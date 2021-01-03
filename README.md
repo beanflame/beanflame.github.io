@@ -1,10 +1,8 @@
-## bean flame blog
+# 网页：
 
-## [bean-flame-blog com](https://blog.beanflame.com)
-
-## [bean-flame-blog cn](https://blog.beanflame.cn)
-
-## [bean-flame-blog top](https://blog.beanflame.top)
+## [豆焰博客 com](https://blog.beanflame.com)  网页无法访问
+## [豆焰博客 cn](https://blog.beanflame.cn)  网页访问
+## [豆焰博客 top](https://blog.beanflame.top)  网页访问
 
 
 
