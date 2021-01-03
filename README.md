@@ -1,5 +1,13 @@
 ## bean flame blog
 
+## [bean-flame-blog com](https://blog.beanflame.com)
+
+## [bean-flame-blog cn](https://blog.beanflame.cn)
+
+## [bean-flame-blog top](https://blog.beanflame.top)
+
+
+
 You can use the [bean-flame-blog](https://blog.beanflame.top) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
