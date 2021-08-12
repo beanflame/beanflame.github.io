@@ -1,12 +1,14 @@
 # 豆焰网站网页
 
-## [豆焰博客 com](https://blog.beanflame.com)  网页无法访问
 ## [豆焰博客 cn](https://blog.beanflame.cn)  网页访问
-## [豆焰博客 top](https://blog.beanflame.top)  网页访问
+
+## ~~[豆焰博客 com](https://blog.beanflame.com)  网页无法访问~~
+## ~~[豆焰博客 top](https://blog.beanflame.top)  网页无法访问~~
 
 
+你可以用 [豆焰博客](https://blog.beanflame.cn)在降价文件中维护和预览网站内容。
 
-你可以用 [豆焰博客](https://blog.beanflame.top)在降价文件中维护和预览网站内容。
+~~你可以用 [豆焰博客](https://blog.beanflame.top)在降价文件中维护和预览网站内容。~~
 
 无论何时提交到此存储库，GitHub页面都将运行 [Jekyll](https://jekyllrb.com/) 从降价文件中的内容重建站点中的页面。
 
