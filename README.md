@@ -1,5 +1,8 @@
 # 豆焰网站网页
 
+
+
+
 ## [豆焰博客 cn](https://blog.beanflame.cn)  网页访问
 
 ## ~~[豆焰博客 com](https://blog.beanflame.com)  网页无法访问~~
